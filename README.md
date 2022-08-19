@@ -1,8 +1,8 @@
-## 🦄 Hi there!
+<div align=center>
+<h2> 🦄 Hi there! </h2>
 
 ✉️ Contact : readytojoin086@gmail.com
 
-<div align=center>
   <h3>🪗 Tech Stack</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
