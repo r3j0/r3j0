@@ -1,7 +1,6 @@
 <div align="center">
   <h2> 🦄 Hi there! </h2>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rejo)](https://velog.io/@eungyeole) 
   ✉️ Contact : readytojoin086@gmail.com
 
   <h3>🪗 Tech Stack</h3>
