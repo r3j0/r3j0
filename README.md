@@ -21,6 +21,6 @@
   <br><br>
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rejo)](https://solved.ac/rejo) <br><br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rejo)](https://github.com/eungyeole/velog-readme-stats) <br><br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rejo)](https://velog-readme-stats.vercel.app/api/redirect?name=rejo&tag=github) <br><br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3j0)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 </div>
