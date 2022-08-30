@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">&nbsp
   <br><br>
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rejo)](https://solved.ac/rejo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rejo)](https://github.com/eungyeole/velog-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3j0)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rejo)](https://solved.ac/rejo) <br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rejo)](https://github.com/eungyeole/velog-readme-stats) <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3j0)](https://github.com/anuraghazra/github-readme-stats) <br>
 </div>
