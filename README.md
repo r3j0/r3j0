@@ -11,7 +11,9 @@
 <img src="https://github.com/user-attachments/assets/9779002b-7e3a-414c-b8e6-b0b10b134827" alt="SQLite"  width="36">
 <img src="https://github.com/user-attachments/assets/de1dc5c9-743d-4512-9b3a-cb0c27132763" alt="Postman"  width="36">
 <img src="https://github.com/user-attachments/assets/76f524f7-bed5-48b9-9481-cca066dd3e04" alt="OpenCV"  width="36">
+<img src="https://github.com/user-attachments/assets/a31e0a24-2b7c-4e16-884b-f23ac5afcd7d" alt="GameMaker"  width="36">
 <img src="https://github.com/user-attachments/assets/71d9bac2-576f-4d25-8b79-63c62b07b59f" alt="RenPy"  width="36">
+<img src="https://github.com/user-attachments/assets/65f51e01-ce85-450d-8d55-a15d8e8f1060" alt="Scratch"  width="36">
 <img src="https://github.com/user-attachments/assets/b5138537-9007-4ca6-9d68-76e226b30452" alt="GitHub"  width="36">
 <img src="https://github.com/user-attachments/assets/6e6b9718-3a86-4f41-a1e6-052f52574a7a" alt="Markdown"  width="36">
 
