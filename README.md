@@ -7,6 +7,7 @@
 <span width="36"><img src="https://github.com/user-attachments/assets/ab514452-a844-410a-b143-2df2e7d35675" alt="HTML5"  width="36"></span>
 <span width="36"><img src="https://github.com/user-attachments/assets/a92f366d-33f4-4b9f-b8a5-8023bd8fd839" alt="CSS3"  width="36"></span>
 <span width="36"><img src="https://github.com/user-attachments/assets/3852a393-0340-4873-a26f-b20e442677db" alt="JavaScript"  width="36"></span>
+<span width="36"><img src="https://github.com/user-attachments/assets/28d46000-9c9a-440f-af37-76e4a5f305b4" alt="SpringBoot"  width="36"></span>
 <span width="36"><img src="https://github.com/user-attachments/assets/dede92df-1f56-4903-bb7a-a589f08691a1" alt="MySQL"  width="36"></span>
 <span width="36"><img src="https://github.com/user-attachments/assets/9779002b-7e3a-414c-b8e6-b0b10b134827" alt="SQLite"  width="36"></span>
 <span width="36"><img src="https://github.com/user-attachments/assets/de1dc5c9-743d-4512-9b3a-cb0c27132763" alt="Postman"  width="36"></span>
@@ -17,6 +18,7 @@
 <span width="36"><img src="https://github.com/user-attachments/assets/b5138537-9007-4ca6-9d68-76e226b30452" alt="GitHub"  width="36"></span>
 <span width="36"><img src="https://github.com/user-attachments/assets/6e6b9718-3a86-4f41-a1e6-052f52574a7a" alt="Markdown"  width="36"></span>
 
+
 ### *I'm interested in recently..*
-- 🍃 SpringBoot3
-- 📈 Linear algebra
+- ♾️ Calculus
+- 📐 Linear algebra
