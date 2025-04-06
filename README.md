@@ -7,7 +7,6 @@
 <span width="32"><img src="https://github.com/user-attachments/assets/ab514452-a844-410a-b143-2df2e7d35675" title="HTML5"  width="32"></span>
 <span width="32"><img src="https://github.com/user-attachments/assets/a92f366d-33f4-4b9f-b8a5-8023bd8fd839" title="CSS3"  width="32"></span>
 <span width="32"><img src="https://github.com/user-attachments/assets/3852a393-0340-4873-a26f-b20e442677db" title="JavaScript"  width="32"></span>
-<span width="32"><img src="https://github.com/user-attachments/assets/d5554c94-c658-4bef-8b21-88a81b14b2a0" title="Vue.js"  width="32"></span>
 <span width="32"><img src="https://github.com/user-attachments/assets/28d46000-9c9a-440f-af37-76e4a5f305b4" title="SpringBoot"  width="32"></span>
 <span width="32"><img src="https://github.com/user-attachments/assets/dede92df-1f56-4903-bb7a-a589f08691a1" title="MySQL"  width="32"></span>
 <span width="32"><img src="https://github.com/user-attachments/assets/9779002b-7e3a-414c-b8e6-b0b10b134827" title="SQLite"  width="32"></span>
@@ -23,4 +22,6 @@
 ### *I'm interested in recently..*
 - ♾️ Calculus
 - 📐 Linear algebra
+- 🥬 Vue.js
 - 🐳 Docker
+- 🐼 Pandas
