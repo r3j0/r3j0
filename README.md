@@ -20,8 +20,4 @@
 
 
 ### *I'm interested in recently..*
-- ♾️ Calculus
-- 📐 Linear algebra
-- 🥬 Vue.js
-- 🐳 Docker
-- 🐼 Pandas
+- Rust
