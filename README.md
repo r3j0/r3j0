@@ -18,6 +18,8 @@
 <span width="32"><img src="https://github.com/user-attachments/assets/b5138537-9007-4ca6-9d68-76e226b30452" title="GitHub"  width="32"></span>
 <span width="32"><img src="https://github.com/user-attachments/assets/6e6b9718-3a86-4f41-a1e6-052f52574a7a" title="Markdown"  width="32"></span>
 
+### 🏆 Awards
+- Gachon University President’s Award, C Programming Mentoring Program (Spring and Fall 2023)
+- Gold Prize, Army Division, TOPCIT (2024)
 
-### *I'm interested in recently..*
-- Rust
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rejo)
