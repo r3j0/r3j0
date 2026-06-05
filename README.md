@@ -1,4 +1,4 @@
-### r3j0 (Park Jeonggeun)
+### rejo (Park Jeonggeun)
 🎓 Hanyang University (Seoul), Computer & Software Engineering <br>
 📧 Contact: junggeun105@hanyang.ac.kr <br>
 🌐 Blog: [Tistory](https://readytojoin.tistory.com/) <br>  
