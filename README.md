@@ -6,31 +6,41 @@
 🧩 solved.ac: [rejo (DIAMOND III)](https://solved.ac/profile/rejo) <br>
 🧩 JUNGOL: [rejo (PLATINUM III)](https://jungol.co.kr/account/148513) <br>
 
-🏆 Gachon University 2023 Spring Tutoring Program (프로그래밍기초) — 1st Place Team, Tutor (가천대학교 총장상) <br>
-🏆 Gachon University 2023 Fall Tutoring Program (문제해결기법) — 1st Place Team, Tutor (가천대학교 총장상) <br>
-🏆 TOPCIT 2024 Second Half — Gold Prize (육군참모총장상)
+🏆 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Spring 2023 (대학총장상) <br>
+🏆 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Fall 2023 (대학총장상) <br>
+🏆 Gold Award, Army Category — TOPCIT 2024 Second Half (육군참모총장상)
 
 ### ⚒️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ---
 
 ### 📚 Currently Studying
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,fastapi,spring,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+</p>
+
 
 
 
