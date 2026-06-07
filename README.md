@@ -4,7 +4,7 @@
 🌐 Blog: [Tistory](https://readytojoin.tistory.com/) <br>  
 
 🧩 solved.ac: [rejo (DIAMOND III)](https://solved.ac/profile/rejo) <br>
-🧩 JUNGOL: [rejo (PLATINUM III)](https://jungol.co.kr/account/148513) <br>
+🧩 JUNGOL: [rejo (GOLD II)](https://jungol.co.kr/account/148513) <br>
 
 🏆 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Spring 2023 (대학총장상) <br>
 🏆 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Fall 2023 (대학총장상) <br>
