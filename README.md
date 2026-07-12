@@ -6,9 +6,12 @@
 🧩 solved.ac: [rejo (DIAMOND III)](https://solved.ac/profile/rejo) <br>
 🧩 JUNGOL: [rejo (GOLD II)](https://jungol.co.kr/account/148513) <br>
 
-🏆 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Spring 2023 (대학총장상) <br>
-🏆 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Fall 2023 (대학총장상) <br>
-🏆 Gold Award, Army Category — TOPCIT 2024 Second Half (육군참모총장상)
+🏅 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Spring 2023 (대학총장상) <br>
+🏅 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Fall 2023 (대학총장상) <br>
+🥇 Gold Award, Army Category — TOPCIT 2024 Second Half (육군참모총장상) <br>
+🥉 Bronze Award, [불씨](https://github.com/Florakimm2/skysh-saltbread) — SKYSH Hackathon 2026 (동상) 
+
+---
 
 ### ⚒️ Tech Stack
 
@@ -25,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
----
 
 ### 📚 Currently Studying
 <p>
