@@ -1,53 +1,9 @@
 ### rejo (Park Jeonggeun)
 🎓 Hanyang University (Seoul), Computer & Software Engineering <br>
 📧 Contact: junggeun105@hanyang.ac.kr <br>
-🌐 Blog: [Tistory](https://readytojoin.tistory.com/) <br>  
 
 🧩 solved.ac: [rejo (DIAMOND III)](https://solved.ac/profile/rejo) <br>
 🧩 JUNGOL: [rejo (GOLD II)](https://jungol.co.kr/account/148513) <br>
 
 <a href="https://www.credly.com/badges/913e2320-0724-4e41-b23b-4b3e3aecb233/public_url" title="
-AWS SBG Core Team Member Badge"><picture><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" alt="AWS SBG Core Team Member Badge" width="150" height="150"></picture></a>
-
-
-🏅 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Spring 2023 (대학총장상) <br>
-🏅 Tutor, 1st Place Team — Gachon University CS Tutoring Program, Fall 2023 (대학총장상) <br>
-🥇 Gold Award, Army Category — TOPCIT 2024 Second Half (육군참모총장상) <br>
-🥉 Bronze Award, [불씨](https://github.com/Florakimm2/skysh-saltbread) — SKYSH Hackathon 2026 (동상) 
-
----
-
-### ⚒️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-
-### 📚 Currently Studying
-<p>
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-</p>
-
-
-
-
-
+AWS SBG Core Team Member Badge"><picture><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" alt="AWS SBG Core Team Member Badge" width="100" height="100"></picture></a>
